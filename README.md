@@ -58,6 +58,11 @@ LinkedIn: https://linkedin.com/in/puspendrasahu
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square)
 
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+
+
 ---
 
 ## Key Work  
