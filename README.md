@@ -33,6 +33,9 @@ LinkedIn: https://linkedin.com/in/puspendrasahu
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square)
+
 
 ### Backend & APIs  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
